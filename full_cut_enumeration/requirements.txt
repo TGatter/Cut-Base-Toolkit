@@ -1,0 +1,4 @@
+networkx
+argparse
+matplotlib
+numba
